@@ -25502,6 +25502,71 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.93816,
+                    -118.3866
+                ]
+            },
+            "properties": {
+                "name": "Los Angeles International (LAX)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.19966,
+                    -118.36543
+                ]
+            },
+            "properties": {
+                "name": "Hollywood Burbank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.81177,
+                    -118.14718
+                ]
+            },
+            "properties": {
+                "name": "Long Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.67975,
+                    -117.86746
+                ]
+            },
+            "properties": {
+                "name": "John Wayne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.05314,
+                    -117.57689
+                ]
+            },
+            "properties": {
+                "name": "Ontario"
+            }
         }
     ]
 }
