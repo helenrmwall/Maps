@@ -25505,67 +25505,67 @@
         },
         {
             "type": "Feature",
+            "properties": {
+                "name": "Los Angeles International (LAX)"
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    33.93816,
-                    -118.3866
+                    -118.3866,
+                    33.93816
                 ]
-            },
-            "properties": {
-                "name": "Los Angeles International (LAX)"
             }
         },
         {
             "type": "Feature",
+            "properties": {
+                "name": "Hollywood Burbank"
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -118.36543,
                     34.19966
                 ]
-            },
-            "properties": {
-                "name": "Hollywood Burbank"
             }
         },
         {
             "type": "Feature",
+            "properties": {
+                "name": "Long Beach"
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -118.14718,
                     33.81177
                 ]
-            },
-            "properties": {
-                "name": "Long Beach"
             }
         },
         {
             "type": "Feature",
+            "properties": {
+                "name": "John Wayne"
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -117.86746,
                     33.67975
                 ]
-            },
-            "properties": {
-                "name": "John Wayne"
             }
         },
         {
             "type": "Feature",
+            "properties": {
+                "name": "Ontario"
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -117.57689,
                     34.05314
                 ]
-            },
-            "properties": {
-                "name": "Ontario"
             }
         }
     ]
