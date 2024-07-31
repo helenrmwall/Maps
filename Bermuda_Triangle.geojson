@@ -7,7 +7,7 @@
                 "name": "Bermuda Triangle",
                 "label-text": "Bermuda Triangle",
                 "label-color": "FF0000",
-                "label-size": 100,
+                "label-size": 10,
                 "area": 1150180
             },
             "geometry": {
