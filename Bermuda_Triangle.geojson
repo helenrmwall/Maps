@@ -5,9 +5,9 @@
             "type": "Feature",
 	    "properties": {
                 "name": "Bermuda Triangle",
-                "label-text": "Bermuda Triangle",
-                "label-color": "FF0000",
-                "label-size": 10,
+                "label-text": "Bermuda\\nTriangle",
+                "label-color": "#000000",
+                "label-size": 16,
                 "area": 1150180
             },
             "geometry": {
